@@ -10,6 +10,9 @@
 git clone https://github.com/serkansentilay/kodluyoruzilkrepo
 ```
 
+![gorsel](Adsiz9.png)
+
+
 # Usage 
 
 ### Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
